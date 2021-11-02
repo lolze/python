@@ -1,7 +1,7 @@
-a = int (input())
-b = int (input())
-c = int (input())
-d = int (input())
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
 for g in range (c, d+1):
     print('\t' +str(g), end='')
 print(end='\n')
