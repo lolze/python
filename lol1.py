@@ -7,3 +7,4 @@ for i in range(a, b+1):
         s+=i
         m+=1
 print(s/m)
+##asdasd
